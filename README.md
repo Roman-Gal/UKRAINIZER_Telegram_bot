@@ -1,8 +1,5 @@
-# UKRAINIZER_Telegram_bot
-
 This bot translate words from different languages to Ukrainian language
 
-UKRAINIZER_Telegram_bot 
 - server on heroku, 
 - Deepl as transaltor
 
